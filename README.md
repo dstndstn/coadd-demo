@@ -15,3 +15,5 @@ For harder stretch, use sdss_rgb() with rgbscales multiplied by 5.  Results are 
 Julia code demo (class notebook) is here
 https://github.com/PerimeterInstitute/Computational-Physics-Course-Winter-2020/blob/master/class-2020-04-01/resampling.ipynb
 
+Data (temporarily) here
+https://portal.nersc.gov/project/cosmo/temp/dstn/coadd-data.tgz
